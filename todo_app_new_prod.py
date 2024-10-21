@@ -1,7 +1,8 @@
 import sys
 import csv
 import re
-from PyQt5.QtWidgets import (QApplication, QWidget, QVBoxLayout, QPushButton, QListWidget,QLineEdit, QFileDialog, QMessageBox, QInputDialog, QDateTimeEdit, QListView)
+from PyQt5.QtWidgets import (QApplication, QWidget, QVBoxLayout, QPushButton, QListWidget, 
+                             QLineEdit, QFileDialog, QMessageBox, QInputDialog, QDateTimeEdit, QListView)
 from PyQt5.QtGui import QIcon, QColor
 from PyQt5.QtCore import QDate, QDateTime, Qt
 from PyQt5.QtWidgets import QListWidgetItem
