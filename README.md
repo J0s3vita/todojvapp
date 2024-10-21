@@ -45,7 +45,7 @@ FEATURES
 
  the todo text version file is a text version of the primordial app
 
-The dev file is a copy of Beckup used during the development of it 
+The dev file is a copy of Backup used during the development of it 
 
 The prod file is the final version that you can safely use 
 
