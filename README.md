@@ -29,12 +29,14 @@ Activate the virtual environment with the command appropriate to your operating 
 
 6. Install the dependencies:
 Install the necessary dependencies listed in the `requirements.txt` file:
-    pip install -r requirements.txt
+    pip install -r requirements.txt 
+   or  pip install <librayname>
 
    The main libraries used in this project are:
-   - **pandas**: For handling CSV file creation and manipulation.
+   - **csv**: For handling CSV file creation and manipulation.
    - **datetime**: To manage and format task deadlines.
    - **os**: To manage file and folder interactions in the system.
+   -**pyQt5** to manage and create windows and button UI.
 
 7. Run the application:
 Now you can run the program to manage your tasks:
