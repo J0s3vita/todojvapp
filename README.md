@@ -39,3 +39,16 @@ Install the necessary dependencies listed in the `requirements.txt` file:
 7. Run the application:
 Now you can run the program to manage your tasks:
     python main.py
+
+
+FEATURES
+
+ the todo text version file is a text version of the primordial app
+
+The dev file is a copy of Beckup used during the development of it 
+
+The prod file is the final version that you can safely use 
+
+Obviously todo tool by Jose Renan Vita is an open source and free non-profit software and it only promotes to improve it being very simple but effective. 
+
+
