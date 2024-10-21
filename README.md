@@ -28,9 +28,8 @@ Activate the virtual environment with the command appropriate to your operating 
         myvenv\Scripts\activate
 
 6. Install the dependencies:
-Install the necessary dependencies listed in the `requirements.txt` file:
-    pip install -r requirements.txt 
-   or  pip install <librayname>
+Install the necessary dependencies listed :
+pip install "librayname"
 
    The main libraries used in this project are:
    - **csv**: For handling CSV file creation and manipulation.
