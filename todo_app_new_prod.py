@@ -158,10 +158,10 @@ class ToDoApp(QWidget):
                 self.show_error(e)
 
     def mark_completed(self):
-        # Segna la task selezionata come completata e aggiorna il testo con "Completata: si"
+        # Segna la task selezionata come completata
         selected_item = self.task_list.task_list.currentItem()
         if selected_item:
-            selected_item.setText(f"{selected_item.text()} - Completata: si")
+            selected_item.setText(f"{selected_item.text()} -X ")
             self.task_list.set_item_color(selected_item)
 
     def remove_task(self):
