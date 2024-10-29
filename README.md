@@ -33,8 +33,11 @@ pip install "librayname"
 
    The main libraries used in this project are:
    - **csv**: For handling CSV file creation and manipulation.
+   
    - **datetime**: To manage and format task deadlines.
+  
    - **os**: To manage file and folder interactions in the system.
+   
    -**pyQt5** to manage and create windows and button UI.
 
 ⚪️ Run the application:
