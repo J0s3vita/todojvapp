@@ -1,4 +1,4 @@
-TODO TOOL APP 🔴 HOW TO USE
+ TODO TOOL APP 🔴 HOW TO USE
 
 The TODO Tool App is a Python application designed to help you manage your daily tasks. 
 You can add, view, and organize your tasks, mark completed ones, and save everything in a CSV format for easy tracking.
@@ -38,7 +38,7 @@ pip install "librayname"
   
    - **os**: To manage file and folder interactions in the system.
    
-   -**pyQt5** to manage and create windows and button UI.
+   - **pyQt5**: to manage and create windows and button UI.
 
 ⚪️ Run the application:
 Now you can run the program to manage your tasks:
